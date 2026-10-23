@@ -30,20 +30,20 @@
 
 ## 👨‍💼 Perfil Profesional
 
-Profesional en Administración de Empresas y Magíster en Gestión Financiera y Riesgos[cite: 1, 3, 4], especializado en el sector financiero cooperativo y la Economía Popular y Solidaria (SEPS)[cite: 1]. Cuento con experiencia sólida en identificación, medición, mitigación y monitoreo de riesgo de liquidez, operativo, de mercado y crédito[cite: 1, 2], así como en implementación de Planes de Continuidad del Negocio (BCP) y auditoría interna[cite: 1, 2, 4, 5]. Combino el conocimiento normativo y financiero con herramientas avanzadas de analítica de datos (Power BI, SQL Server, Python y Excel) para automatizar el análisis de brechas, reportes de mora y modelos de riesgo[cite: 1, 5].
+Profesional en Administración de Empresas y Magíster en Gestión Financiera y Riesgos, especializado en el sector financiero cooperativo y la Economía Popular y Solidaria (SEPS). Cuento con experiencia sólida en identificación, medición, mitigación y monitoreo de riesgo de liquidez, operativo, de mercado y crédito[cite: 1, 2], así como en implementación de Planes de Continuidad del Negocio (BCP) y auditoría interna. Combino el conocimiento normativo y financiero con herramientas avanzadas de analítica de datos (Power BI, SQL Server, Python y Excel) para automatizar el análisis de brechas, reportes de mora y modelos de riesgo[cite: 1, 5].
 
 ---
 
 ## 💼 Experiencia Profesional
 
 ### **Asistente de Auditoría Interna** | *Cooperativa de Ahorro y Crédito Minga Ltda.*
-*Marzo 2026 – Actualidad* | Riobamba / Colta, Ecuador[cite: 1, 4, 5]
+*Marzo 2026 – Actualidad* | Riobamba / Colta, Ecuador
 - Apoyo en la formulación y estructuración del Plan Anual de Trabajo de Auditoría Interna.
 - Diseño y elaboración de papeles de trabajo, hallazgos, registros y hojas de verificación operativa.
 - Revisión periódica de entregables normativos y cumplimiento de requerimientos para entes de control (SEPS)[cite: 1, 5].
 
 ### **Asistente de Riesgos Financieros** | *Cooperativa de Ahorro y Crédito Minga Ltda.*[cite: 1, 5]
-*Noviembre 2024 – Marzo 2026* | Riobamba, Ecuador[cite: 1, 5]
+*Noviembre 2024 – Marzo 2026* | Riobamba, Ecuador
 - Estructuré e implementé el Plan de Continuidad del Negocio (BCP) mediante el levantamiento integral de procesos críticos, logrando documentar y ordenar el 100% de la operación institucional[cite: 1, 2].
 - Monitoreé y controlé eventos de riesgo operativo, liquidez y mercado para prevenir pérdidas financieras bajo normativa SEPS[cite: 1, 5].
 - Elaboré análisis de brechas de liquidez, concentración de cartera y matrices de transición para la toma de decisiones estratégicas[cite: 1, 5].

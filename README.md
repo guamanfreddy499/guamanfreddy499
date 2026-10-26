@@ -69,42 +69,75 @@ Logro Clave: Reestructuré y digitalicé el sistema de archivo de expedientes de
 Educación
 
 Ingenieria en Administración de empresas
+
 Escuela Superior Politecnica de Chimborazo
+
 2017 - 2021
+
 Riobamba, Ecuador
 
+
 Magister en Gestión Financiera y Riesgos
+
 Universidad Tecnológica Ecotec
+
 2025 -  2026
+
 Guayaquil, Ecuador
 
+
 Programa en Gerencia y Administración de Cooperativas Gercoop
+
 Financoop
+
 2025 -  2026
+
 Ambato,  Ecuador
 
+
 Capacitación en Auditoría interna para cooperativas
+
 Liderazgo Ecuador
+
 2026
+
 Quito,  Ecuador
+
 
 Capacitación Sistema de Gestión de Continuidad de Negocio
+
 Elthon & Codespa
+
 2025 - 2026
+
 Quito,  Ecuador
+
 
 Programa Analyst & Expert
+
 Ciencia de Datos Ecuador
+
 2026
+
 Quito,  Ecuador
 
+
 Habilidades Blandas
+
 Trabajo en equipo
+
 Organización
+
 Adaptabilidad
+
 Comunicación asertiva
 
+
 Idiomas
+
 Español — Nativo
+
 Inglés — Nivel Básico
+
 Quichua — Nivel Medio
+

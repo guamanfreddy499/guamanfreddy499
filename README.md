@@ -3,7 +3,7 @@
 
 [![Email](https://img.shields.io/badge/Email-guamanfreddy499%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guamanfreddy499@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Freddy_Guamán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-guaman-17baa42b0)
-[![GitHub](https://img.shields.io/badge/GitHub-[NOMBRE__REPO]-181717?style=flat&logo=github&logoColor=white)](https://github.com/[NOMBRE_REPO])
+[![GitHub](https://img.shields.io/badge/GitHub-[NOMBRE__REPO]-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_Proyectos-00C7B7?style=flat&logo=google-chrome&logoColor=white)]([URL])
 
 ---
@@ -15,15 +15,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-
 ---
-
 ## 📋 Índice
 - [Perfil Profesional](#-perfil-profesional)
 - [Experiencia Profesional](#-experiencia-profesional)
-- [Proyectos Destacados](#-proyectos-destacados)
 - [Habilidades Técnicas](#-habilidades-técnicas)
-- [Educación y Certificaciones](#-educación-y-certificaciones)
+- [Educación](#-educación-y-certificaciones)
+- [Habilidades Blandas](#-habilidades-Blandas)
 - [Idiomas](#-idiomas)
 
 ---

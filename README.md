@@ -122,6 +122,7 @@ Ciencia de Datos Ecuador
 Quito,  Ecuador
 
 
+
 Habilidades Blandas
 
 Trabajo en equipo
@@ -131,6 +132,7 @@ Organización
 Adaptabilidad
 
 Comunicación asertiva
+
 
 
 Idiomas

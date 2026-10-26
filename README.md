@@ -66,7 +66,8 @@ Atención y Orientación a Familias: Atención presencial y canalización de req
 Elaboración de Reportes Técnicos: Consolidación de datos operativos, asistencias y fichas socioeconómicas mediante Microsoft Excel y Word para la elaboración de informes administrativos periódicos requeridos por la dirección y entidades de control social.
 Logro Clave: Reestructuré y digitalicé el sistema de archivo de expedientes de los beneficiarios, reduciendo en un 35% el tiempo de búsqueda de fichas socioeducativas y asegurando el 100% de cumplimiento en las auditorías de información.
 
-Exducación
+Educación
+
 Ingenieria en Administración de empresas
 Escuela Superior Politecnica de Chimborazo
 2017 - 2021

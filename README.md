@@ -3,8 +3,7 @@
 
 [![Email](https://img.shields.io/badge/Email-guamanfreddy499%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guamanfreddy499@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Freddy_Guamán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-guaman-17baa42b0)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_Proyectos-00C7B7?style=flat&logo=google-chrome&logoColor=white)]([URL])
+
 
 ---
 

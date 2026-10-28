@@ -31,8 +31,8 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 Habilidades Técnicas
 
-[Análisis de Datos y BI] ───► Power BI, DAX, Power Query, Excel Avanzado
-[Bases de Datos & SQL]  ───► MS SQL Server, Azure Data Studio, Docker
+[Análisis de Datos y BI] ───► Power BI, Power Query, Excel Avanzado
+[Bases de Datos & SQL]  ───► MS SQL Server
 [Programación & Data]   ───► Python (Pandas, Matplotlib, Seaborn)
 [Gestión de Riesgos]    ───► Riesgo Financiero, Liquidez, BCP, Riesgo Operativo, SEPS
 

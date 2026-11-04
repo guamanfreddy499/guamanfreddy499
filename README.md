@@ -16,16 +16,6 @@
 
 ---
 
-## 📑 Índice
-- [Perfil Profesional](#-perfil-profesional)
-- [Experiencia Profesional](#-experiencia-profesional)
-- [Habilidades Técnicas](#-habilidades-técnicas)
-- [Educación y Certificaciones](#-educación-y-certificaciones)
-- [Habilidades Blandas](#-habilidades-blandas)
-- [Idiomas](#-idiomas)
-
----
-
 ## 🎯 Perfil Profesional
 
 Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria en Cooperativas Segmento 2 en Crédito, Riesgos y Auditoría. Especialista en traducir riesgos en procesos eficientes, con capacidad para documentar, medir y optimizar procesos clave bajo normativa SEPS. Aporto visión 360° del negocio cooperativo, control interno y análisis de datos para la mejora continua y la toma de decisiones estratégicas.

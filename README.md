@@ -73,7 +73,7 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 🤝 Habilidades Blandas
+##Habilidades Blandas
 
 `Trabajo en equipo` &nbsp;•&nbsp; `Organización estratégica` &nbsp;•&nbsp; `Adaptabilidad` &nbsp;•&nbsp; `Comunicación asertiva` &nbsp;•&nbsp; `Resolución de problemas`
 

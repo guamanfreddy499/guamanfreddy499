@@ -14,13 +14,13 @@
 ![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ---
 
-## 🎯 Perfil Profesional
+## Perfil Profesional
 
 Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria en Cooperativas Segmento 2 en Crédito, Riesgos y Auditoría. Especialista en traducir riesgos en procesos eficientes, con capacidad para documentar, medir y optimizar procesos clave bajo normativa SEPS. Aporto visión 360° del negocio cooperativo, control interno y análisis de datos para la mejora continua y la toma de decisiones estratégicas.
 
 ---
 
-## 💻 Habilidades Técnicas
+## Habilidades Técnicas
 
 * **Análisis de Datos y BI:** Power BI, Power Query, Excel Avanzado, Modelado Dimensional (Star Schema)
 * **Bases de Datos & SQL:** MS SQL Server, T-SQL, Consultas Avanzadas
@@ -29,7 +29,7 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 💼 Experiencia Profesional
+## Experiencia Profesional
 
 ### **Asistente de Riesgos Financieros** | *Cooperativa de Ahorro y Crédito Minga Ltda.*
 *Noviembre 2024 – Actualidad* | Riobamba, Ecuador
@@ -60,14 +60,14 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 🎓 Educación y Certificaciones
+##  Educación y Certificaciones
 
-* 🎓 **Magíster en Gestión Financiera y Riesgos** | Universidad Tecnológica Ecotec (2025 - 2026) - Guayaquil, Ecuador
-* 🎓 **Ingeniería en Administración de Empresas** | Escuela Superior Politécnica de Chimborazo (2017 - 2021) - Riobamba, Ecuador
-* 📜 **Programa en Gerencia y Administración de Cooperativas (Gercoop)** | Financoop (2025 - 2026) - Ambato, Ecuador
-* 📜 **Capacitación en Auditoría Interna para Cooperativas** | Liderazgo Ecuador (2026) - Quito, Ecuador
-* 📜 **Capacitación Sistema de Gestión de Continuidad de Negocio** | Elthon & Codespa (2025 - 2026) - Quito, Ecuador
-* 📜 **Programa Analyst & Expert (Ciencia de Datos)** | Ciencia de Datos Ecuador (2026) - Quito, Ecuador
+*  **Magíster en Gestión Financiera y Riesgos** | Universidad Tecnológica Ecotec (2025 - 2026) - Guayaquil, Ecuador
+*  **Ingeniería en Administración de Empresas** | Escuela Superior Politécnica de Chimborazo (2017 - 2021) - Riobamba, Ecuador
+*  **Programa en Gerencia y Administración de Cooperativas (Gercoop)** | Financoop (2025 - 2026) - Ambato, Ecuador
+*  **Capacitación en Auditoría Interna para Cooperativas** | Liderazgo Ecuador (2026) - Quito, Ecuador
+*  **Capacitación Sistema de Gestión de Continuidad de Negocio** | Elthon & Codespa (2025 - 2026) - Quito, Ecuador
+*  **Programa Analyst & Expert (Ciencia de Datos)** | Ciencia de Datos Ecuador (2026) - Quito, Ecuador
 
 ---
 
@@ -77,7 +77,7 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 🗣️ Idiomas
+##  Idiomas
 
 * **Español:** Nativo
 * **Inglés:** Nivel Básico

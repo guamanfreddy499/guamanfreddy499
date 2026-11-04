@@ -4,7 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-guamanfreddy499%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guamanfreddy499@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Freddy_Guamán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-guaman-17baa42b0)
 
-
 ---
 
 Tecnologías y Herramientas

@@ -8,7 +8,7 @@ Magíster en Gestión Financiera y Riesgos | Analista de Riesgos Financieros y A
 
 ---
 
-## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
+## TECNOLOGÍAS Y HERRAMIENTAS
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -17,19 +17,23 @@ Magíster en Gestión Financiera y Riesgos | Analista de Riesgos Financieros y A
 
 ---
 
-## 💼 PERFIL PROFESIONAL
+## PERFIL PROFESIONAL
 
 Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria en Cooperativas Segmento 2 en Crédito, Riesgos y Auditoría. Especialista en traducir riesgos en procesos eficientes, con capacidad para documentar, medir y optimizar procesos clave bajo normativa SEPS. Aporto visión 360° del negocio cooperativo, control interno y análisis de datos para la mejora continua y la toma de decisiones estratégicas.
 
 ---
 
-## ⚙️ HABILIDADES TÉCNICAS
+## HABILIDADES TÉCNICAS
 
-- Manejo de Excel, Power BI, SQL, Analytics, Estadística
+- Manejo de Excel
+- Power BI
+- SQL
+- Analytics
+- Estadística
 
 ---
 
-## 🎯 COMPETENCIAS PROFESIONALES
+## COMPETENCIAS PROFESIONALES
 
 - Continuidad de Negocio
 - Riesgos Financieros
@@ -38,7 +42,7 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 📈 EXPERIENCIA PROFESIONAL
+## EXPERIENCIA PROFESIONAL
 
 ### **Asistente de Riesgos Financieros** | *Cooperativa de Ahorro y Crédito Minga Ltda.*
 *Noviembre 2024 – Actualidad* | **Riobamba, Ecuador**
@@ -69,7 +73,7 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 🎓 EDUCACIÓN
+## EDUCACIÓN
 
 * **Magíster en Gestión Financiera y Riesgos** | Universidad Tecnológica Ecotec (2025 - 2026)  
   **Guayaquil, Ecuador**
@@ -81,7 +85,7 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 📚 CAPACITACIONES
+## CAPACITACIONES
 
 * **Programa en Gerencia y Administración de Cooperativas (Gercoop)** | Financoop (2025 - 2026)  
   **Ambato, Ecuador**
@@ -103,6 +107,6 @@ Profesional en Administración de Empresas y Gestión de Riesgos con trayectoria
 
 ---
 
-## 🤝 HABILIDADES BLANDAS
+## HABILIDADES BLANDAS
 
 `Trabajo en equipo` &nbsp;•&nbsp; `Organización estratégica` &nbsp;•&nbsp; `Adaptabilidad` &nbsp;•&nbsp; `Comunicación asertiva` &nbsp;•&nbsp; `Resolución de problemas`
